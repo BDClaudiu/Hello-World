@@ -1,0 +1,251 @@
+<!DOCTYPE html>
+<html class="bg">
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ 
+ 
+<link rel="stylesheet" type="text/css" href="../css/GridViewMain.css">
+<link rel="stylesheet" type="text/css" href="../css/Background_Img.css">
+
+<title>MainWindow</title>
+
+<style>
+
+</style>
+
+</head>
+<body>
+
+<div class="header" >
+  <h2>Login</h2>
+</div>
+
+
+
+<div class="row rowPadding">
+<div class="col-3 col-m-3 menu">
+  <ul>
+    <li>Games</li>
+    <li>Weather</li>
+    <li>Calendar</li>
+    <li>Documentation</li>
+	<li>Concordia Notes</li>
+	<li>Something else</li>
+	<li>Something else version two</li>
+  </ul>
+</div>
+
+<div class="col-7 col-m-9 "  >
+
+<div class="row">
+
+  <div   class="col-3 col-m-9 borderShadow">
+		
+  <h3>Row 1 Column 1</h3>
+  
+  
+  
+  
+  </div>
+   <div   class="col-3 col-m-9 borderShadow">
+		
+ <h3>Row 1 Column 2</h3>
+  
+ 
+  
+  </div>
+   <div   class="col-3 col-m-9 borderShadow">
+		
+ <h3>Row 1 Column 3</h3>
+ 
+  
+ 
+  
+  </div>
+   <div   class="col-3 col-m-9 borderShadow">
+		
+ <h3>Row 1 Column 4</h3>
+ 
+  
+  
+  </div>
+  
+ 
+  
+</div>
+
+<div class="row">
+
+  
+   <div   class="col-3 col-m-9 borderShadow">
+		
+  <h3>Row 2 Column 1</h3>
+ 
+ 
+ 
+  
+  </div>
+   <div  class="col-3 col-m-9 borderShadow">
+		
+  <h3>Row 2 Column 2</h3>
+ 
+ 
+  
+  
+  </div>
+  <div   class="col-3 col-m-9 borderShadow">
+		
+  <h3>Row 2 Column 3</h3>
+ 
+
+  
+  
+  </div>
+  <div  class="col-3 col-m-9 borderShadow">
+		
+ <h3>Row 2 Column 4</h3>
+  
+  
+  
+  
+  </div>
+</div>
+
+<div class="row">
+
+  
+   <div   class="col-3 col-m-9 borderShadow">
+		
+ <h3>Row 3 Column 1</h3>
+ 
+  
+ 
+  
+  </div>
+   <div   class="col-3 col-m-9 borderShadow">
+		
+  <h3>Row 3 Column 2</h3>
+  
+ 
+  
+  
+  </div>
+  <div  class="col-3 col-m-9 borderShadow">
+		
+  <h3>Row 3 Column 3</h3>
+ 
+  
+  
+  
+  </div>
+  <div   class="col-3 col-m-9 borderShadow">
+		
+ <h3>Row 3 Column 4</h3>
+  
+  
+  
+  
+  </div>
+</div>
+<div class="row">
+
+
+   <div   class="col-3 col-m-9 borderShadow">
+		
+   <h3>Row 4 Column 1</h3>
+  
+ 
+ 
+  
+  </div>
+   <div   class="col-3 col-m-9 borderShadow">
+		
+   <h3>Row 4 Column 2</h3>
+  
+  
+ 
+  
+
+  
+  </div>
+   <div  class="col-3 col-m-9 borderShadow">
+		
+  <h3>Row 4 Column 3</h3>
+  
+  
+  
+  
+
+  
+  </div>
+   <div   class="col-3 col-m-9 borderShadow">
+		
+  <h3>Row 4 Column 4</h3>
+ 
+  
+  
+ 
+  
+  </div>
+</div>
+
+
+
+</div>
+
+<div class="col-2 col-m-12">
+  <div class="aside2" >
+  
+ <h3>Index</h3>
+	<ul class="menu2">
+		<li>Documentation</li>
+		<li>Java</li>
+		<li>Tutorial 3</li>
+		<li>Java Arrays</li>
+		
+	
+	
+	</ul>
+
+
+
+ 
+  
+  </div>
+</div>
+
+</div>
+
+
+
+<div class="row rowPadding"  >
+
+<div class="col-2 col-m-3 menu">
+  <ul>
+    <li>About Us</li>
+    <li>Contant Us</li>
+    <li>View Different Styles</li>
+   
+  </ul>
+</div>
+
+<div class="col-8 col-m-9">
+  <div id="insideContentDiv">
+		
+
+  
+  
+  </div>
+</div>
+
+<div class="col-2 col-m-12">
+
+</div>
+
+</div>
+
+
+
+</body>
+</html>
